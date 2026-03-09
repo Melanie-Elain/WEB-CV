@@ -1,44 +1,37 @@
-# vCard - Personal portfolio
+# Hi there, I'm Melanie-Elain! 👋
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full-stack+Developer;NestJS+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+### 🚀 About Me
+I am a Software Engineering student passionate about building optimized web systems. Currently, I am mastering the JavaScript ecosystem (**NestJS**, **React**) and **Java (Spring Boot)**.
 
-## Demo
+---
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+### 💻 Technical Stack:
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+### 🛠 Featured Projects:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+#### 1. S-Link: Student Event Management Platform
+- **Description:** A comprehensive system for managing school events, developed as my thesis project.
+- **Key achievement:** Streamlining event workflows for students and organizers.
 
-## Installing vCard
+#### 2. Learning Management System (LMS)
+- **Description:** A group project focusing on high-performance backend architecture using **NestJS**.
+- **Contribution:** Developed core backend modules and system architecture.
 
-To install **vCard**, follow these steps:
+#### 3. VRP Solver with Genetic Algorithm
+- **Description:** An optimization project solving the Vehicle Routing Problem with Time Windows (VRPTW).
+- **Methodology:** Implementing **Genetic Algorithms** to find the most efficient delivery routes.
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+### 📫 Connect with me:
+- 📧 Email: baohan.tbh0406@gmail.com
