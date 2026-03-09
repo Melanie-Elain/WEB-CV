@@ -1,4 +1,4 @@
-# Hi there, I'm Melanie-Elain! 👋
+# Hi there, I'm Bao Han! 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full-stack+Developer;NestJS+Enthusiast;Problem+Solver" alt="Typing SVG" />
